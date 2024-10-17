@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-invis.png">
+	<SubTexture name="GF Dancing Beat0000" x="0" y="0" width="10" height="10" frameX="0" frameY="0" frameWidth="10" frameHeight="10"/>
+</TextureAtlas>
