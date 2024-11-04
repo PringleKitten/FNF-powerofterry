@@ -1,3 +1,0 @@
-b.mp4 filter=lfs diff=lfs merge=lfs -text
-c.mp4 filter=lfs diff=lfs merge=lfs -text
-d.mp4 filter=lfs diff=lfs merge=lfs -text
